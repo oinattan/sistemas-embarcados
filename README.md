@@ -87,7 +87,7 @@ A configuração depende da plataforma de hardware escolhida. As mais comuns sã
 Bash
 
 # Clone este repositório
-git clone https://github.com/seu-usuario/sistemas-embarcados.git
+git clone https://github.com/oinattan/sistemas-embarcados.git
 
 # Acesse o diretório de um laboratório
 cd sistemas-embarcados/laboratorios/lab01-gpio-blink
