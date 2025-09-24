@@ -1,8 +1,11 @@
 # Sistemas Embarcados
 
 **Disciplina:** Sistemas Embarcados
+
 **Instituição:** UNIC - Universidade de Cuiabá  
+
 **Período:** 2025/2  
+
 **Curso:** Ciências da Computação
 
 ## 📋 Sobre a Disciplina
